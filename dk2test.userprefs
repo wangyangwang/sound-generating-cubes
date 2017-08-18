@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{5C917F2A-78B8-6B87-E5AC-F50B05726722}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ScaleMe.cs">
+    <Files>
+      <File FileName="Assets/CreatingMesh.cs" Line="15" Column="19" />
+      <File FileName="Assets/Plane_Mesh_Script.cs" Line="15" Column="4" />
+      <File FileName="Assets/osc/oscReceive.cs" Line="39" Column="9" />
+      <File FileName="Assets/ScaleMe.cs" Line="7" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.dk2test PreferredExecutionTarget="Unity.Editor" />
+</Properties>
